@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Blog"
+  site-url: https://nikhilbhaskar.com
+  description: "Web, devops and android blog"
+  navbar:
+    right:
+      - about.qmd
+      - icon: linkedin
+        href: https://linkedin.com/in/nikhil-b
+      - icon: github
+        href: https://github.com/nikhil-31
+      - icon: rss
+        href: index.xml
+format:
+  html:
+    theme: cosmo
+    css: styles.css

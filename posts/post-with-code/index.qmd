@@ -1,0 +1,9 @@
+---
+title: "First Post"
+author: "Nikhil Bhaskar"
+date: "2023-05-04"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This is a demo post

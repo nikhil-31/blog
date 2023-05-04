@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.myblogexample.io/about.html</loc>
+    <lastmod>2023-05-04T13:19:43.048Z</lastmod>
+  </url>
+  <url>
+    <loc>https://about.html</loc>
+    <lastmod>2023-05-04T13:19:46.147Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nikhilbhaskar.com/about.html</loc>
+    <lastmod>2023-05-04T14:52:16.746Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nikhilbhaskar.com/index.html</loc>
+    <lastmod>2023-05-04T14:40:43.989Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nikhilbhaskar.com/posts/welcome/index.html</loc>
+    <lastmod>2023-05-04T14:40:45.382Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nikhilbhaskar.com/posts/post-with-code/index.html</loc>
+    <lastmod>2023-05-04T14:40:43.507Z</lastmod>
+  </url>
+</urlset>
